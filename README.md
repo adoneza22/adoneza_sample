@@ -1,2 +1,2 @@
 # adoneza_sample
-SAMPLE
+sample git
